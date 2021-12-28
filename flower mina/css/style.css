@@ -285,8 +285,48 @@ ul.navbar-nav li:nth-child(7) {
 
 /* end  newest flower */
 
-/* end flower-care */
 
+
+/* flower care */
+.container-flower-care{
+    margin-top: 11rem;
+}
+.flower-care-right{
+    text-align: center;
+    margin-top: 13rem;
+}
+.flower-care-right h2{
+    font-size: 37pt;
+    font-weight: bold;
+}
+.flower-care-right p{
+    font-size: 28pt;
+    margin-right: 4rem;
+}
+.flower-care-right-buttom p{
+    text-align: justify;
+    margin-right: 12rem;
+    font-size: 11pt;
+    color: #abababee;
+}
+.flower-care-left{
+    text-align: center;
+}
+.flower-care-left img:nth-child(1){
+    position: relative;
+    right: 3.5rem;
+    width: 79%;
+    height: 230px;
+}
+.flower-care-left img:nth-child(2){
+    position: relative;
+    right: -4rem;
+    width: 63%;
+    height: 48rem;
+    object-fit: cover;
+    top: -8rem;
+}
+/* end flower care */
 
 
 
